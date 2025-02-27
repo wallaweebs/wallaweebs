@@ -16,6 +16,5 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/debasree-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasree-sen" height="30" width="40"/></a>
-<a href="mailto:debasreesen25@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="wallaweebs" height="30" width="40" /></a>
 <a href="https://discord.gg/smoresinthishouse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smoresinthishouse" height="30" width="40" /></a>
 </p>
